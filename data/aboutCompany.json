@@ -1,0 +1,70 @@
+[
+    {
+        "id": 1,
+        "title": "QUIENES SOMOS",
+        "description": "Somos una empresa de Investigación de Soluciones Tecnológicas, Consultoría TI, Desarrollo de Software e Infraestructuras TI.",
+        "content": [
+            {
+                "id":1,
+                "information": "En Brecomperu, compañía innovadora y líder en Tecnologías de la Información, consideramos que la prestación de servicios y producción de soluciones de la más alta calidad es una palanca imprescindible para la sostenibilidad de la organización y la creación de valor para todas las partes interesadas."
+            },
+            {
+                "id":2,
+                "information": ""
+            }
+        ],
+        "img": "https://cdn.vuetifyjs.com/images/cards/forest-art.jpg"
+    },
+    {
+        "id": 2,
+        "title": "QUE HACEMOS",
+        "description": "",
+        "content": [
+            {
+                "id":1,
+                "information": "En Brecomperu creamos soluciones y servicios innovadores contribuyendo al desarrollo, no sólo en beneficio de nuestros clientes sino, en un sentido más amplio, a toda la sociedad y en las comunidades donde estamos presentes."
+            },
+            {
+                "id":2,
+                "information": "Desarrollo de Software"
+            },
+            {
+                "id":3,
+                "information": "Infraestructura Tecnológica"
+            },
+            {
+                "id":4,
+                "information": "Servicios de Consultoría en TI"
+            },
+            {
+                "id":4,
+                "information": "Investigación y Pruebas de Concepto"
+            }
+        ],
+        "img": "https://cdn.vuetifyjs.com/images/cards/forest-art.jpg"
+    },
+    {
+        "id": 3,
+        "title": "DONDE ESTAMOS",
+        "description": "",
+        "content": [
+            {
+                "id":1,
+                "information": "Estamos presentes en toda la región latam, teniendo como ubicación física nuestra sede principal en lima, Perú."
+            }
+        ],
+        "img": "https://cdn.vuetifyjs.com/images/cards/forest-art.jpg"
+    },
+    {
+        "id": 4,
+        "title": "CON QUIENES TRABAJAMOS",
+        "description": "",
+        "content": [
+            {
+                "id":1,
+                "information": "Nuestras soluciones están orientadas principalmente a las empresas con visión de cambio y constante innovación."
+            }
+        ],
+        "img": "https://cdn.vuetifyjs.com/images/cards/forest-art.jpg"
+    }
+]
